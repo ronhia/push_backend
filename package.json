@@ -1,0 +1,19 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "firebase-admin": "^12.6.0",
+    "google-auth-library": "^9.14.1"
+  },
+  "type": "module"
+}
